@@ -26,7 +26,7 @@ This app for to make simple android application, using free [CockTailDB API](htt
 ---
 
 Download the APK from [here](https://drive.google.com/file/d/1U0lJqZUzxe8kcsXKyNbtXRoiQvA_EZtL/view?usp=sharing)
-## 📸 Screenshots
+
 <h2 align="center"><b>Demo:</b></h2>
 Demo Video <a href="https://drive.google.com/file/d/1FKBte7dbiua8fa0IZgaQVssEiFIWLkcd/view?usp=sharing">here</a> or click the image below:<br>
 <a href="https://drive.google.com/file/d/1FKBte7dbiua8fa0IZgaQVssEiFIWLkcd/view?usp=sharing">
