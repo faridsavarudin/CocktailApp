@@ -10,7 +10,7 @@ This app for to make simple android application, using free [CockTailDB API](htt
 ## ✨ Features
 - Search cocktails by name
 - View cocktail details
-- Save last search keyword locally
+- Save data to local
 - Clear search field with one click
 - Elegant UI using Material 3 and Jetpack Compose
 
