@@ -25,7 +25,7 @@ This app for to make simple android application, using free [CockTailDB API](htt
 
 ---
 
-[![Demo Video](assets/demo-thumbnail.png)](https://drive.google.com/file/d/1FKBte7dbiua8fa0IZgaQVssEiFIWLkcd/view?usp=sharing)
+[![Demo Video](assets/thumbnail.png)](https://drive.google.com/file/d/1FKBte7dbiua8fa0IZgaQVssEiFIWLkcd/view?usp=sharing)
 
 ---
 
