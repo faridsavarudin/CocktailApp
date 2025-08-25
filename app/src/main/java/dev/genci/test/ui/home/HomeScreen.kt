@@ -42,11 +42,13 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import coil.compose.AsyncImage
 import com.google.accompanist.swiperefresh.SwipeRefresh
 import com.google.accompanist.swiperefresh.rememberSwipeRefreshState
+import dev.genci.test.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -152,6 +154,8 @@ fun HomeScreen(
                                     AsyncImage(
                                         model = item.thumb,
                                         contentDescription = item.name,
+                                        placeholder = painterResource(R.drawable.default_image),
+                                        error = painterResource(R.drawable.default_image),
                                         modifier = Modifier
                                             .size(80.dp)
                                             .clip(RoundedCornerShape(12.dp))

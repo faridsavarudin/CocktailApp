@@ -1,0 +1,82 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Bowl liquid -->
+    <path
+        android:fillColor="#F7D9A8"
+        android:pathData="M20,36h88c0,20 -22,36 -44,36s-44,-16 -44,-36z"/>
+
+    <!-- Bowl outline -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="3"
+        android:pathData="M20,36h88c0,20 -22,36 -44,36s-44,-16 -44,-36z"/>
+
+    <!-- Stem -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M64,72v26"/>
+
+    <!-- Base -->
+    <path
+        android:fillColor="#F3F3F3"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="3"
+        android:pathData="M46,104h36a6,6 0 0,1 0,12h-36a6,6 0 0,1 0,-12z"/>
+
+    <!-- Lemon outer -->
+    <path
+        android:fillColor="#C8F08A"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="3"
+        android:pathData="M98,14a14,14 0 1,0 0,28a14,14 0 1,0 0,-28z"/>
+
+    <!-- Lemon inner -->
+    <path
+        android:fillColor="#A8E46A"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="2"
+        android:pathData="M98,18a10,10 0 1,0 0,20a10,10 0 1,0 0,-20z"/>
+
+    <!-- Lemon segments -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M98,18v20"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M88,28h20"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M92,22l12,12"/>
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2B2B2B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M92,34l12,-12"/>
+
+    <!-- Liquid highlight -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeAlpha="0.6"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M28,44c10,6 22,10 36,10s26,-4 36,-10"/>
+</vector>

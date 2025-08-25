@@ -1,7 +1,9 @@
 # 🍸 Cocktail App
 
 A simple Android application built with **Jetpack Compose** and **Room Database** that allows users to search and view cocktail details.
-This project demonstrates the use of **MVVM architecture**, **Navigation Compose**, and **Room for local persistence**.
+This project demonstrates the use of **MVVM architecture**, **Navigation Compose**, **Hilt**, **Retrofit**, **OkHttp**, and **Room for local persistence**.
+
+This app for to make simple android application, using free [CockTailDB API](https://www.thecocktaildb.com/api.php).
 
 ---
 
@@ -23,9 +25,13 @@ This project demonstrates the use of **MVVM architecture**, **Navigation Compose
 
 ---
 
+[![Demo Video](assets/demo-thumbnail.png)](assets/demo-cocktailApp.mp4)
+
+---
+
 ## 🚀 Installation
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/faridsavarudin/cocktail-app.git
-cd cocktail-app
+cd TestGenciDev
